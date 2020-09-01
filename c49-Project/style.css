@@ -1,0 +1,50 @@
+
+            h1{
+           color:blueviolet;
+           font-style: italic;
+            }
+            
+            body{
+            background-color:turquoise;
+            margin:0px;
+            font-style: italic;
+            }
+            .header{
+            
+            display: flex;
+            justify-content: center;
+            font-style: italic;
+            background-color: #E5DFFF;
+            }
+            .grid{
+            
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: right;
+            margin:17px;
+            color: #FF8300;
+            }
+            .items{
+            
+            display:flex;
+            justify-content: space-evenly;
+            border-bottom: #D2691E;
+            }
+            .footer{
+            
+            display: flex;
+            justify-content: flex-end;
+            
+            }
+            p,ol{
+                color: black;
+                font-style: italic;
+                font-style:italic;
+                text-align: left;
+                
+            }
+
+            p{
+                color: #FF8300;
+                font-size:medium;
+            }
